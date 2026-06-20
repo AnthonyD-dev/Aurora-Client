@@ -1,11 +1,3 @@
-████████████████████████████████████████████████████████████████
-
-                       A U R O R A
-
-          Modern • Lightweight • Professional
-
-████████████████████████████████████████████████████████████████
-
 # Aurora
 
 A modern Windows utility built with C# WinForms and Siticone UI.
@@ -30,11 +22,15 @@ Aurora provides a clean, lightweight interface focused on performance, customiza
 
 ## Screenshots
 
-![Aurora Home](images/aurora-home.png)
+![Aurora Home](images/AuroraHome.png)
 
 ### Injector Tab
 
-![Aurora Injector](images/aurora-injector.png)
+![Aurora Injector](images/AuroraInjector.png)
+
+### Login Window
+
+![Aurora Login Screen](images/AuroraLogin)
 
 ---
 ### Home
