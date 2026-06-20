@@ -4,7 +4,7 @@ A modern Windows utility built with C# WinForms and Siticone UI.
 
 Aurora provides a clean, lightweight interface focused on performance, customization, and ease of use.
 
-![Aurora Banner](Resources/aurorabg.png)
+![Aurora Banner](images/aurorabg.png)
 
 ## Features
 
@@ -30,7 +30,7 @@ Aurora provides a clean, lightweight interface focused on performance, customiza
 
 ### Login Window
 
-![Aurora Login Screen](images/AuroraLogin)
+![Aurora Login Screen](images/AuroraLogin.png)
 
 ---
 ### Home
